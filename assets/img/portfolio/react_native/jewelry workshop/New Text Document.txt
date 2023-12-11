@@ -1,0 +1,6 @@
+https://bravojewellers.com/
+
+This is an app for jewelry workshop services, where craftsmanship is combined with the most modern technologies.
+
+The app makes it possible to leave requests to repair a piece of jewelry, make a new piece with your own design, or browse existing collections of handmade jewelry. With secure transactions, real-time updates and expert advice, the app offers a seamless and inspiring jewelry shopping experience at your fingertips. I saw it for myself during the development process, and I invite you to do the same!
+What you see in the video is completely my implementation. I recorded from a simulator on a computer, because the application is not yet in production, but I leave a link to the website of the company for which I made this application.

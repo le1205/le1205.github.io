@@ -1,0 +1,4 @@
+Galleria is a user-friendly NFT platform developed using a combination of UIKit and SwiftUI. It simplifies the NFT experience by abstracting away the complexities of web3, Ethereum, and crypto wallets. With Galleria, users can seamlessly explore NFT collections, follow Ethereum wallets, access celebrity wallet net worth data, and track their own NFT portfolio statistics. It offers a straightforward and accessible entry point to the world of NFTs.
+
+
+https://apps.apple.com/qa/app/mint-nfts-on-galleria/id1604013393
